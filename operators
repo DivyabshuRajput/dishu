@@ -1,0 +1,9 @@
+# Python divides the operators in the following groups:
+
+1. Arithmetic operators
+2. Assignment operators
+4. Comparison operators
+5. Logical operators
+6. Identity operators
+7. Membership operators
+8. Bitwise operators
